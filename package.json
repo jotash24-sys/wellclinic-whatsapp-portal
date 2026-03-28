@@ -1,0 +1,13 @@
+{
+  "name": "wellclinic-whatsapp-portal",
+  "version": "2.0.0",
+  "description": "Portal de atendimento WhatsApp - Well Clinic Odontologia",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
